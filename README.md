@@ -1,4 +1,4 @@
-### NeuroStartUp
+# NeuroStartUp
 
 ![](./image-1.png)
 
